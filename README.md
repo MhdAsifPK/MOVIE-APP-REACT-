@@ -1,8 +1,24 @@
-# React + Vite
+# 🎬 React Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **React Movie App**! This application allows users to browse and view detailed information about movies, including cast ratings, descriptions, and trailers.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Movie Details**: View comprehensive details of each movie, such as title, release date, genre, and runtime.
+- **Cast Ratings**: Check out ratings given by users and critics.
+- **Description**: Read in-depth descriptions of movies.
+- **Trailer**: Watch trailers directly within the app.
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **Redux**: For state management.
+- **Firebase**: For backend services (optional).
+- **TMDb API**: To fetch movie data.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/react-movie-app.git
+   cd react-movie-app
